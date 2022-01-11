@@ -1,0 +1,26 @@
+@use url(../css/null.css);
+@use url(../css/fonts.css);
+
+
+.wrapper {
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+}
+.menu-list {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.page-box {
+  min-width: 360px;
+  max-width: auto:
+  margin: 0 auto;
+  padding: 22px 20px 0;
+}
+
+.table-items{
+
+}
